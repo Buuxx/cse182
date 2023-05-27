@@ -1,0 +1,147 @@
+ESO51_amplicon4_annotated_cycles.txt(Cycle=3): segment 5 length 74496
+ESO51_amplicon4_annotated_cycles.txt(Cycle=3): segment 6 length 70592
+
+FLO-1_amplicon3_annotated_cycles.txt(Cycle=2): segment 2 length 154132
+
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=1): segment 6 length 676254
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=1): segment 27 length 77819
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=1): segment 29 length 257977
+
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 33 length 3025552
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 37 length 3021873
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 4 length 81165
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 16 length 963
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 15 length 970
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=9): segment 7 length 5365
+
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 31 length 3281157
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 30 length 3279230
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 28 length 79124
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 13 length 190140
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 8 length 38968
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 10 length 11614
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 26 length 393
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 12 length 94820
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 11 length 108537
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 26 length 393
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 10 length 11614
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 8 length 38968
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 13 length 190140
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=11): segment 28 length 79124
+
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=13): segment 5 length 86536
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=13): segment 32 length 5256
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=13): segment 14 length 956
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=13): segment 17 length 535
+
+JH-EsoAd1_amplicon3_annotated_cycles.txt(Cycle=14): segment 9 length 61199
+
+JH-EsoAd1_amplicon4_annotated_cycles.txt(Cycle=4): segment 12 length 222805
+JH-EsoAd1_amplicon4_annotated_cycles.txt(Cycle=4): segment 17 length 216152
+JH-EsoAd1_amplicon4_annotated_cycles.txt(Cycle=4): segment 7 length 2547
+
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=1): segment 33 length 1587
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=4): segment 34 length 459492
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=5): segment 7 length 240409
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=5): segment 13 length 2281
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=5): segment 9 length 89266
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=5): segment 4 length 59369
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=7): segment 21 length 1235892
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=7): segment 6 length 15762
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=7): segment 5 length 2267
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=7): segment 2 length 11983
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=7): segment 19 length 611758
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=11): segment 26 length 223898
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=12): segment 8 length 287656
+JH-EsoAd1_amplicon5_annotated_cycles.txt(Cycle=12): segment 14 length 14458
+
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=2): segment 28 length 2598609
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=4): segment 18 length 3955545
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=4): segment 23 length 41250
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=4): segment 22 length 39755
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=4): segment 20 length 1170860
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=8): segment 24 length 814211
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=8): segment 21 length 424153
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=9): segment 31 length 669678
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=18): segment 16 length 105779
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=18): segment 36 length 552
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=18): segment 12 length 342
+OACM5.1_amplicon1_annotated_cycles.txt(Cycle=18): segment 35 length 149
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=7): segment 8 length 110704
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=7): segment 5 length 763
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=7): segment 9 length 1609
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=9): segment 4 length 573876
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=9): segment 3 length 404869
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=10): segment 7 length 171951
+OACP4-C_amplicon1_annotated_cycles.txt(Cycle=10): segment 16 length 184
+
+OACP4-C_amplicon2_annotated_cycles.txt(Cycle=1): segment 38 length 233698
+OACP4-C_amplicon2_annotated_cycles.txt(Cycle=6): segment 36 length 471711
+OACP4-C_amplicon2_annotated_cycles.txt(Cycle=6): segment 26 length 334957
+
+OACP4-C_amplicon3_annotated_cycles.txt(Cycle=2): segment 2 length 128354
+OACP4-C_amplicon3_annotated_cycles.txt(Cycle=3): segment 3 length 128041
+OACP4-C_amplicon3_annotated_cycles.txt(Cycle=3): segment 4 length 176
+
+OACP4-C_amplicon4_annotated_cycles.txt(Cycle=1): segment 2 length 139731
+
+OACP4-C_amplicon5_annotated_cycles.txt(Cycle=2): segment 2 length 192643
+
+OACP4-C_amplicon7_annotated_cycles.txt(Cycle=1): segment 2 length 202787
+
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=1): segment 14 length 573
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=1): segment 17 length 433
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=2): segment 24 length 383703
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=2): segment 13 length 123061
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=2): segment 18 length 317164
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=2): segment 20 length 11605
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=8): segment 2 length 972
+OACP4-C_amplicon8_annotated_cycles.txt(Cycle=9): segment 15 length 92989
+
+OACP4-C_amplicon9_annotated_cycles.txt(Cycle=2): segment 3 length 263993
+
+OACP4-C_amplicon11_annotated_cycles.txt(Cycle=11): segment 7 length 524328
+OACP4-C_amplicon11_annotated_cycles.txt(Cycle=11): segment 11 length 93327
+OACP4-C_amplicon11_annotated_cycles.txt(Cycle=11): segment 12 length 91485
+OACP4-C_amplicon11_annotated_cycles.txt(Cycle=11): segment 8 length 523331
+
+OACP4-C_amplicon13_annotated_cycles.txt(Cycle=9): segment 24 length 205504
+OACP4-C_amplicon13_annotated_cycles.txt(Cycle=9): segment 21 length 54325
+OACP4-C_amplicon13_annotated_cycles.txt(Cycle=9): segment 18 length 55860
+OACP4-C_amplicon13_annotated_cycles.txt(Cycle=14): segment 32 length 2001
+
+OACP4-C_amplicon14_annotated_cycles.txt(Cycle=2): segment 6 length 139894
+OACP4-C_amplicon14_annotated_cycles.txt(Cycle=4): segment 4 length 1977497
+OACP4-C_amplicon14_annotated_cycles.txt(Cycle=4): segment 7 length 10461
+
+OACP4-C_amplicon17_annotated_cycles.txt(Cycle=2): segment 2 length 114154
+
+OACP4-C_amplicon18_annotated_cycles.txt(Cycle=2): segment 2 length 292387
+
+OACP4-C_amplicon20_annotated_cycles.txt(Cycle=1): segment 4 length 287027
+OACP4-C_amplicon20_annotated_cycles.txt(Cycle=2): segment 2 length 1017775
+OACP4-C_amplicon20_annotated_cycles.txt(Cycle=2): segment 3 length 999402
+
+OACP4-C_amplicon23_annotated_cycles.txt(Cycle=2): segment 2 length 62771
+
+OACP4-C_amplicon24_annotated_cycles.txt(Cycle=1): segment 6 length 26368
+OACP4-C_amplicon24_annotated_cycles.txt(Cycle=3): segment 4 length 300174
+OACP4-C_amplicon24_annotated_cycles.txt(Cycle=4): segment 7 length 721997
+OACP4-C_amplicon24_annotated_cycles.txt(Cycle=4): segment 5 length 199631
+OACP4-C_amplicon24_annotated_cycles.txt(Cycle=4): segment 3 length 303861
+
+OACP4-C_amplicon26_annotated_cycles.txt(Cycle=2): segment 2 length 186097
+
+OACP4-C_amplicon27_annotated_cycles.txt(Cycle=2): segment 4 length 164068
+OACP4-C_amplicon27_annotated_cycles.txt(Cycle=3): segment 3 length 296419
+
+OE33_amplicon1_annotated_cycles.txt(Cycle=2): segment 10 length 601
+OE33_amplicon1_annotated_cycles.txt(Cycle=2): segment 20 length 86
+OE33_amplicon1_annotated_cycles.txt(Cycle=8): segment 13 length 6702262
+OE33_amplicon1_annotated_cycles.txt(Cycle=8): segment 18 length 5247962
+OE33_amplicon1_annotated_cycles.txt(Cycle=8): segment 6 length 3675744
+OE33_amplicon1_annotated_cycles.txt(Cycle=8): segment 7 length 3989846
+OE33_amplicon1_annotated_cycles.txt(Cycle=10): segment 15 length 817915
+
+OE33_amplicon3_annotated_cycles.txt(Cycle=2): segment 5 length 666870
+OE33_amplicon3_annotated_cycles.txt(Cycle=2): segment 6 length 630826

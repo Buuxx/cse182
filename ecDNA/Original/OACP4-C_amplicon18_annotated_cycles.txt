@@ -1,0 +1,5 @@
+List of cycle segments
+Segment	1	chr11	46696238	47001247
+Segment	2	chr11	46705830	46998217
+Cycle=1;Copy_count=3.99450144638;Length=305009;IsCyclicPath=False;CycleClass=Linear;Segments=0+,1-,0+
+Cycle=2;Copy_count=1.79111913931;Length=292387;IsCyclicPath=True;CycleClass=ecDNA-like;Segments=2+

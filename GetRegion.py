@@ -12,4 +12,7 @@ def GetRegion(chromosome, start, end, strand):
         seq = seq_reverse
     return seq
 
+# change this to specific chromosome, start point, end
+# point, and strand you are looking at, and it will print
+# out the exact sequence
 print(GetRegion(11,93278730,93279265, "+"))

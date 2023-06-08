@@ -29,8 +29,6 @@ def parse():
                                      + "," + str(segments[seg][1]) + "," 
                                      + str(segments[seg][2]) + "," + strand + "\n")
 
-# parse()
-
 def cleanseg1():
     infile = open("ecDNAinfo.txt", "r")
     outfile = open("segfile0.txt", "w")
@@ -49,22 +47,46 @@ def cleanseg2():
             continue
         outfile.write(linelist[i])
 
+def GetRegion(chromosome, start, end, strand):
+    RGFile = open("../ReferenceGenome/chromosome" + str(chromosome) + ".fna")
+    RGLines = RGFile.readlines()
+    RefGen = ""
+    for i in range(1, len(RGLines)):
+        RefGen = RefGen + RGLines[i].strip()
+    seq = RefGen[int(start) - 1 : int(end)]
+    seq_reverse = ""
+    if strand == "-":
+        for i in range(len(seq)):
+            seq_reverse = seq[i] + seq_reverse
+        seq = seq_reverse
+    return seq
+
+def sequencing():
+    input = open("segfile.txt", "r")
+    sliverinfo = open("sliverinfo.txt", "w")
+    sliverseqs = open("sliverseqs.txt", "w")
+
+    i = 1
+    for line in input:
+        if line[0:7] == "Segment":
+            segi = line.split(",")
+            seq = GetRegion(segi[1], int(segi[2]), int(segi[3]), segi[4].strip())
+            sliverinfo.write(line)
+            sliverinfo.write(seq + "\n")
+            sliverseqs.write(seq + "\n")
+            print("finished " + str(i))
+            i += 1
+        else:
+            sliverinfo.write(line)
+
+sequencing()
+
+
+
+
+
+
+
+# parse()
 # cleanseg1()
-cleanseg2()
-
-# def GetRegion(chromosome, start, end, strand):
-#     RGFile = open("ReferenceGenome/chromosome" + str(chromosome) + ".fna")
-#     RGLines = RGFile.readlines()
-#     RefGen = ""
-#     for i in range(1, len(RGLines)):
-#         RefGen = RefGen + RGLines[i].strip()
-#     seq = RefGen[int(start) - 1 : int(end)]
-#     seq_reverse = ""
-#     if strand == "-":
-#         for i in range(len(seq)):
-#             seq_reverse = seq[i] + seq_reverse
-#         seq = seq_reverse
-#     return seq
-
-# def sequencing():
-#     input = open("ecDNAinfo.txt")
+# cleanseg2()

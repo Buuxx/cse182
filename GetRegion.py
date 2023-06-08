@@ -15,4 +15,5 @@ def GetRegion(chromosome, start, end, strand):
 # change this to specific chromosome, start point, end
 # point, and strand you are looking at, and it will print
 # out the exact sequence
-print(GetRegion(11,93278730,93279265, "+"))
+
+print(GetRegion(5,846641,847074,"+"))

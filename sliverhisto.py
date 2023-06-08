@@ -72,7 +72,7 @@ getseq("OE33_amplicon3_annotated_cycles.txt")
 
 
 fig, ax = plt.subplots()
-ax.hist(sliverhisto.lenlist, 50, range=[0,100000], weights=sliverhisto.weightlist, color="palevioletred")
+ax.hist(sliverhisto.lenlist, 10, range=[0,2000], weights=sliverhisto.weightlist)
 plt.xlabel("Segment Length")
 plt.ylabel("Number of Copies")
 plt.show()

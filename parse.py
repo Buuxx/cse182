@@ -1,3 +1,5 @@
+import pandas as pd
+
 def parse():
     filename = open("filelist.txt", "r")
     filelist = filename.readlines()
@@ -79,14 +81,42 @@ def sequencing():
         else:
             sliverinfo.write(line)
 
-sequencing()
-
-
-
-
-
-
+def table():
+    # headers: [filename,segment#,chr#,startloc,endloc,strand,length,#GC,%GC,seq]
+    sliverinfo = open("sliverinfo.txt", "r").readlines()
+    filename = ""
+    sliverdat = []
+    for lnum in range(len(sliverinfo)):
+        line = sliverinfo[lnum].strip()
+        if line[-4:] == ".txt":
+            filename = line
+        elif line[0:7] == "Segment":
+            seq = sliverinfo[lnum+1].strip()
+            # list: [seg#,chr#,startloc,endloc,strand]
+            list = line.split(",")
+            segnum = list[0]
+            chrnum = list[1]
+            startloc = int(list[2])
+            endloc = int(list[3])
+            strand = list[4]
+            length = endloc - startloc
+            print(length)
+            gc_c = 0
+            gc = ["G", "g", "C", "c"]
+            if length == 0:
+                break
+            for char in seq:
+                if char in gc:
+                    gc_c += 1
+            gc_p = (gc_c/length)*100
+            
+            sliverlist = [filename,segnum,chrnum,startloc,endloc,strand,length,gc_c,gc_p,seq]
+            sliverdat.append(sliverlist)
+    df = pd.DataFrame(sliverdat, columns=["filename","segment#","chr#","startloc","endloc","strand","length","#GC","%GC","seq"])
+    df.to_csv('sliverdat.csv', index=False)
 
 # parse()
 # cleanseg1()
 # cleanseg2()
+# sequencing()
+# table()
